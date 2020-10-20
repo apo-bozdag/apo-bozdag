@@ -7,4 +7,4 @@
 ---
 
 [View my personal website: **abdullahbozdag.com**](https://abdullahbozdag.com/)  
-[Follow me on twitter: **@apo_bozdag**](https://twitter.com/apo_bozdag)
+[Follow me on twitter: **@apo_bozdag35**](https://twitter.com/apo_bozdag35)
