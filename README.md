@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apo-bozdag" alt="apo-bozdag" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/apo_bozdag" target="blank"><img src="https://img.shields.io/twitter/follow/apo_bozdag?logo=twitter&style=for-the-badge" alt="apo_bozdag" /></a> </p>
 
 - 🔭 I’m currently working on [Tripian](https://github.com/Tripian-inc)
