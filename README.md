@@ -3,23 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/apo_bozdag" target="blank"><img src="https://img.shields.io/twitter/follow/apo_bozdag?logo=twitter&style=for-the-badge" alt="apo_bozdag" /></a> </p>
 
-- 🔭 I’m currently working on [Tripian](https://github.com/Tripian-inc)
-
-- 🌱 I’m currently learning **Flutter**
-
-- 👯 I’m looking to collaborate on **Full-stack projects**
-
-- 🤝 I’m looking for help with [SoruCevap.Dev](https://github.com/RadKod)
-
-- 👨‍💻 All of my projects are available at [https://abdullahbozdag.com/](https://abdullahbozdag.com/)
-
-- 📝 I regularly write articles on [https://abdullahbozdag.medium.com/](https://abdullahbozdag.medium.com/)
-
-- 💬 Ask me about **python, php, laravel**
-
-- 📫 Reach me at **abdullah@radkod.com**
-
-- ⚡ Fun fact **leyla ile mecnun**
+[https://abdullahbozdag.com/](https://abdullahbozdag.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
