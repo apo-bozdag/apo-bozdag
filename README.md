@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/apo_bozdag" target="blank"><img src="https://img.shields.io/twitter/follow/apo_bozdag?logo=twitter&style=for-the-badge" alt="apo_bozdag" /></a> </p>
 
-[https://abdullahbozdag.com/](https://abdullahbozdag.com/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/abdullahbozdag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="abdullahbozdag" height="30" width="40" /></a>
