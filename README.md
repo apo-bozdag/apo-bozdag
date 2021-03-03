@@ -3,6 +3,7 @@
 
 <p align="left"> 
   <a href="https://twitter.com/apo_bozdag" target="blank"><img src="https://img.shields.io/twitter/follow/apo_bozdag?logo=twitter&style=for-the-badge" alt="apo_bozdag" /></a> 
+
 [![Discord](https://img.shields.io/discord/365814620650471424?color=7289DA&label=discord&style=for-the-badge)](https://discord.gg/TUZwJHr6)
 
 </p>
