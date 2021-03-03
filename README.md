@@ -28,4 +28,6 @@
 
 </details>
 
+[![Discord](https://img.shields.io/discord/365814620650471424?color=7289DA&label=discord&style=for-the-badge)](https://discord.gg/TUZwJHr6)
+
 [<p align="center"> <img src="https://readme-spotify-status-ahdm68l0t-apo-bozdag.vercel.app/api/run-spotify-status" alt="Playing Now" width="600" /></p>](https://open.spotify.com/user/11143211175)
