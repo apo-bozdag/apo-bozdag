@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
-<p align="left"> <a href="https://twitter.com/apo_bozdag" target="blank"><img src="https://img.shields.io/twitter/follow/apo_bozdag?logo=twitter&style=for-the-badge" alt="apo_bozdag" /></a> </p>
+<p align="left"> 
+  <a href="https://twitter.com/apo_bozdag" target="blank"><img src="https://img.shields.io/twitter/follow/apo_bozdag?logo=twitter&style=for-the-badge" alt="apo_bozdag" /></a> 
+[![Discord](https://img.shields.io/discord/365814620650471424?color=7289DA&label=discord&style=for-the-badge)](https://discord.gg/TUZwJHr6)
+
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,7 +31,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apo-bozdag&" alt="apo-bozdag" /></p>
 
 </details>
-
-[![Discord](https://img.shields.io/discord/365814620650471424?color=7289DA&label=discord&style=for-the-badge)](https://discord.gg/TUZwJHr6)
 
 [<p align="center"> <img src="https://readme-spotify-status-ahdm68l0t-apo-bozdag.vercel.app/api/run-spotify-status" alt="Playing Now" width="600" /></p>](https://open.spotify.com/user/11143211175)
