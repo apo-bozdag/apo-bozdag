@@ -30,5 +30,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apo-bozdag&" alt="apo-bozdag" /></p>
 
 </details>
-
-[<p align="center"> <img src="https://readme-spotify-status-ahdm68l0t-apo-bozdag.vercel.app/api/run-spotify-status" alt="Playing Now" width="600" /></p>](https://open.spotify.com/user/11143211175)
