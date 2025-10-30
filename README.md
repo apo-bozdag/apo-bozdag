@@ -1,4 +1,6 @@
-## Hi there 👋
+## About me
+
+Fullstack developer working with PHP, Python, Node.js, and Flutter. Guitar player with a thing for vintage aesthetics, rock music, and underground culture.
 
 <!--
 **apo-bozdag/apo-bozdag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
